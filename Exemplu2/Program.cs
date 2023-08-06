@@ -5,7 +5,7 @@
 
   
 
-// Ввод числа с клавиатуры.
+// Ввод числа .
             Console.Write("Введите число: ");
             int number = int.Parse(Console.ReadLine());
 
